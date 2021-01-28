@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ```markdown
 
-[Family Convenience Clinic](http://fcc-wm.com)
+**[Family Convenience Clinic]**(http://fcc-wm.com)
 
 ```
 
